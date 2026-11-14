@@ -1,0 +1,2 @@
+# A-B-Testing-Regression-Analysis-Project-Marketing-Campaign-Analysis-Data-Analysis-Project
+⭐ Starting from a business problem and research question ⭐ Helping a marketing agency to select best platform to run ad campaigns ⭐ Analysing and Visualising data to compare campaigns performance ⭐ A/B Testing to select the best ad campaign platform to run ads ⭐ Regression Analysis to get the expected conversions
